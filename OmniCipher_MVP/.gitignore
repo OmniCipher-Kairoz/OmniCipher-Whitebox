@@ -1,0 +1,14 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Logs and temp
+*.log
+*.tmp
+
+# Model files
+Models/*
+*.gguf
+
+# Signal logs
+codex_signal_entries.txt
